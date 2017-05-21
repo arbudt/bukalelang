@@ -1,2 +1,2 @@
 # bukalelang
-bukalelang bukalapak
+bukalelang bukalapak.com
